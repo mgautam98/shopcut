@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "798559460062",
+    "firebase_url": "https://fir-app-8a1e6.firebaseio.com",
+    "project_id": "fir-app-8a1e6",
+    "storage_bucket": "fir-app-8a1e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798559460062:android:10460e9c0ce4a16039c04f",
+        "android_client_info": {
+          "package_name": "com.example.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798559460062-37fho0ku0hscv6hlcc5igtorbn754fb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdbvBwIDtmSa77_qCXKDRH_xGP-uCSJIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798559460062-37fho0ku0hscv6hlcc5igtorbn754fb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798559460062:android:8863ecf047b01c2639c04f",
+        "android_client_info": {
+          "package_name": "com.example.shopcut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798559460062-37fho0ku0hscv6hlcc5igtorbn754fb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdbvBwIDtmSa77_qCXKDRH_xGP-uCSJIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798559460062-37fho0ku0hscv6hlcc5igtorbn754fb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798559460062:android:1305d9206179513439c04f",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798559460062-090h7qk5iovurhmtg5no7rtopi7hu05j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.friendlychat",
+            "certificate_hash": "718b532e64e79fd92f937accdeb157a958580ced"
+          }
+        },
+        {
+          "client_id": "798559460062-37fho0ku0hscv6hlcc5igtorbn754fb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdbvBwIDtmSa77_qCXKDRH_xGP-uCSJIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798559460062-37fho0ku0hscv6hlcc5igtorbn754fb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
